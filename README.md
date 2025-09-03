@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="apple.png" alt="Logo" height="60">
+  <img src="apple.png" alt="Logo" height="120">
 </div>
 
+<div align="center">
+
 # FastVLM: Efficient Vision Encoding for Vision Language Models
+
+</div>
 
 This is the official repository of
 **[FastVLM: Efficient Vision Encoding for Vision Language Models](https://www.arxiv.org/abs/2412.13303). (CVPR 2025)**
