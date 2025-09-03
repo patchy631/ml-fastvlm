@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="apple.png" alt="Logo">
+</div>
+
 # FastVLM: Efficient Vision Encoding for Vision Language Models
 
 This is the official repository of
