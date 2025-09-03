@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="apple.png" alt="Logo" height="120">
+  <img src="apple2.png" alt="Logo" height="120">
 </div>
 
 <div align="center">
