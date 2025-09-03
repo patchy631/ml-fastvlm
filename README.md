@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="apple.png" alt="Logo">
+  <img src="apple.png" alt="Logo" height="60">
 </div>
 
 # FastVLM: Efficient Vision Encoding for Vision Language Models
